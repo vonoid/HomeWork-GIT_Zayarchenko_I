@@ -54,4 +54,4 @@ https://github.com/vonoid/repo/commit/45930a230b1f2929d1bb09b22b3da1813b8bda64
 
 https://github.com/vonoid/repo/commit/53ccea126268b5695cb4214592965e3719301721
 
-![alt text]([https://github.com/username/reponame/blob/branch/path/image.png](https://github.com/vonoid/repo/blob/main/Screenshot_1.png))
+![alt text](https://github.com/vonoid/repo/blob/main/Screenshot_1.png)
